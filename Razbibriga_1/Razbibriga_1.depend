@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1480884445 source:c:\users\branislav\desktop\c++\c++ projekti\razbibriga_1\e1_88_2015_fibonacci_c.cpp
+	<iostream>
+
+1480860856 source:c:\users\branislav\desktop\c++\c++ projekti\razbibriga_1\main.cpp
+
+1480887075 source:c:\users\branislav\desktop\c++\c++ projekti\razbibriga_1\e1_88_2015_fibonacci_a.cpp
+
+1480886977 source:c:\users\branislav\desktop\c++\c++ projekti\razbibriga_1\e1_88_2015_bin_ispis.cpp
+
+1480887075 source:c:\users\branislav\desktop\c++\c++ projekti\razbibriga_1\e1_88_2015_fibonacci_b.cpp
+
+1480886966 source:c:\users\branislav\desktop\c++\c++ projekti\razbibriga_1\e1_88_2015_binom.cpp
+
+1480887075 source:c:\users\branislav\desktop\c++\c++ projekti\razbibriga_1\e1_88_2015_kombinacije.cpp
+
+1480887034 source:c:\users\branislav\desktop\c++\c++ projekti\razbibriga_1\e1_88_2015_faktorizacija.cpp
+
+1480887075 source:c:\users\branislav\desktop\c++\c++ projekti\razbibriga_1\e1_88_2015_kvadratna_jednacina.cpp
+	<math.h>
+
